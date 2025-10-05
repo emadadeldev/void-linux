@@ -92,7 +92,7 @@ unzip JetBrainsMono.zip -d ~/.fonts/JetBrainsMono
 fc-cache -f -v
 
 echo -e "\033[1;33m[+] Restoring XFCE Settings\033[0m"
-curl -Lo config.tar https://github.com/emadadel4/void-linux/raw/refs/heads/main/env-configs/xfce/emadadel/config.tar
+curl -Lo config.tar https://github.com/emadadeldev/void-linux/raw/refs/heads/main/env-configs/xfce/emadadel/config.tar
 tar -xvf config.tar
 
 

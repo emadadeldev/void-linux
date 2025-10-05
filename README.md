@@ -26,7 +26,7 @@ sudo xbps-install -S git
 ```
 
 ```bash
-git clone https://github.com/emadadel4/void-linux.git
+git clone https://github.com/emadadeldev/void-linux.git
 ```
 
 ```bash
