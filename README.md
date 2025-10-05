@@ -15,7 +15,7 @@ sudo xbps-install -S curl
 ```
 
  ```bash
- bash <(curl -sL cutt.ly/evoid)
+ bash <(curl -sL cutt.ly/eavoid)
  ```
 
 or
